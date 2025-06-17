@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+follow [tutorial.md](mdc:weather_bot_team/tutorial.md ) 
